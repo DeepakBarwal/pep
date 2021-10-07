@@ -2,6 +2,12 @@
 
 ## File System Organizer
 
+```shell
+
+npm link
+
+```
+
 ### Commands
 
 ```shell
